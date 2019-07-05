@@ -11,7 +11,7 @@ This repo consists of the codes I used for Remaining Useful Life Prediction of T
   Uses Convolutional Neural Network and Recurrence Plots for the classification of Remaining Useful Life.
   
 ### RUL_Classification.ipynb
-  Uses Support Vector Classifier, XGBoost and LSTM for classification of Remining Useful Life.
+  Uses Support Vector Classifier, XGBoost and LSTM for classification of Remaining Useful Life.
   
 ### RUL_LSTM.ipynb
   Uses LSTM network for the prediction of Remaining Useful Life.
